@@ -1,2 +1,2 @@
 # Miscelaneous
-This is a repository of small codes that I have developed.
+_This is a repository of small codes that I have developed.
