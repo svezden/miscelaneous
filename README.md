@@ -14,6 +14,7 @@ This is a repository of codes that I have developed and various ideas.
 * Kaggle 
 * https://eu.udacity.com/course/deep-learning-nanodegree--nd101
 * https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0
+* https://www.youtube.com/watch?v=vOppzHpvTiQ&list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3
 
 ## Books for Machine Learning
 
